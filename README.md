@@ -7,8 +7,18 @@
 [![Submissions](https://img.shields.io/badge/Submissions-Student%20Portfolios-red)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Organization-black)](https://github.com)
 
-## Welcome to the official repository for CS 131 student portfolio submissions.  
+Welcome to the official repository for CS 131 student portfolio submissions. 
 This repository serves as a central portfolio for all students to showcase code, projects, and related work.
+
+## Prerequisites
+- Create a GitHub account: <a href="https://github.com/signup" target="_blank">GitHub Sign Up</a>
+- Download and install Git Bash: <a href="https://git-scm.com/downloads" target="_blank">Git Bash Download</a> (Optional: Windows using cmd line)
+#### GitHub Fork & PR Tutorial
+<a href="https://youtu.be/8ifZr4zjkZ8" target="_blank">
+  <img src="public/tutorial-preview.png" width="200">
+  <p>Click to watch the tutorial video.</p>
+</a>
+
 ---
 ## 🧱 Repository Structure
 ```
@@ -20,7 +30,7 @@ This repository serves as a central portfolio for all students to showcase code,
 └── README.md       # description of their project
 ```
 
-/students-porfolios/
+/students-portfolios/
 /first-last-name/
 /doc/
 /presentation/
