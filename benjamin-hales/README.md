@@ -11,5 +11,5 @@ have upon the human condition. We can see how, when we interact with
 them, the AI is eager to be utilized as a tool for human beings to be 
 successful. It reveals the underlying computations that make this possible.
 
-[View Benjamin Hales' Presentation Slides](https://github.com/woden255/student-portfolios/tree/main/benjamin-hales/presentation/slides)
+
 
